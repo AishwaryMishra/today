@@ -1005,3 +1005,753 @@ Session ID: 0b9b20b87be2b3319d2b29698215d513
 2018-02-12 16:14:56 INFO  WaitHelper:32 - 20
 2018-02-12 16:14:56 INFO  WaitHelper:37 - 240
 2018-02-12 16:14:56 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\workspace\today/Data/TestData.xlsx
+2018-02-12 16:59:42 INFO  baseTestClass:134 - Loading config.properties
+2018-02-12 16:59:42 INFO  baseTestClass:140 - Loading or.properties
+2018-02-12 16:59:42 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-12 16:59:45 INFO  WaitHelper:32 - 20
+2018-02-12 16:59:45 INFO  WaitHelper:37 - 240
+2018-02-12 16:59:45 INFO  Registration:23 - Registration.Registration started
+2018-02-15 17:21:35 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:21:35 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:21:35 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:21:36 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-15 17:23:11 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:23:11 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:23:11 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:23:11 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-15 17:23:58 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:23:58 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:23:58 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:23:58 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-15 17:24:29 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:24:29 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:24:29 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:24:32 INFO  WaitHelper:32 - 20
+2018-02-15 17:24:32 INFO  WaitHelper:37 - 240
+2018-02-15 17:24:32 INFO  Registration:23 - Registration.Registration started
+2018-02-15 17:24:40 INFO  WaitHelper:61 - element found...Sign in
+2018-02-15 17:24:40 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-15 17:24:42 INFO  LoginPage:78 - entering registration email..1518695682441@gmail.com
+2018-02-15 17:24:44 INFO  WaitHelper:61 - element found...
+2018-02-15 17:24:44 INFO  WaitHelper:61 - element found...
+2018-02-15 17:24:44 INFO  RegistrationPage:100 - selecting mr checkbox..
+2018-02-15 17:24:44 INFO  RegistrationPage:110 - entering firstName..firstName
+2018-02-15 17:24:44 INFO  RegistrationPage:115 - entering lastname..lastname
+2018-02-15 17:24:44 INFO  RegistrationPage:125 - entering password..password
+2018-02-15 17:24:44 INFO  RegistrationPage:188 - entering address..address
+2018-02-15 17:24:45 INFO  RegistrationPage:173 - entering yourAddressFirstName..yourAddressFirstName
+2018-02-15 17:24:45 INFO  RegistrationPage:178 - entering yourAddressLastName..yourAddressLastName
+2018-02-15 17:24:45 INFO  RegistrationPage:183 - entering yourAddressCompany..yourAddressCompany
+2018-02-15 17:24:45 INFO  RegistrationPage:198 - entering yourAddressCity..yourAddressCity
+2018-02-15 17:24:46 INFO  RegistrationPage:203 - entering yourAddressState..Alaska
+2018-02-15 17:24:46 INFO  RegistrationPage:208 - entering yourAddressPostCode..99501
+2018-02-15 17:24:46 INFO  RegistrationPage:223 - entering mobilePhone..9999999999
+2018-02-15 17:24:46 INFO  RegistrationPage:228 - entering addressAlias..addressAlias
+2018-02-15 17:24:46 INFO  RegistrationPage:233 - clicked on registration..[[ChromeDriver: chrome on XP (77b7ed633d5fa0961eddbaf50bdc01ee)] -> xpath: //*[@id='submitAccount']]
+2018-02-15 17:24:48 INFO  WaitHelper:61 - element found...ORDER HISTORY AND DETAILS
+2018-02-15 17:24:48 INFO  VerificationHelper:20 - Welcome to your account. Here you can manage all of your personal information and orders. is dispalyed
+2018-02-15 17:24:48 INFO  Registration:57 - Registration is sucessful
+2018-02-15 17:24:50 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:24:50 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:24:50 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:24:52 INFO  WaitHelper:32 - 20
+2018-02-15 17:24:52 INFO  WaitHelper:37 - 240
+2018-02-15 17:24:52 INFO  VerifyProductCounts:21 - ProductDetails.VerifyProductCounts started
+2018-02-15 17:25:26 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:25:26 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:25:26 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:25:27 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-15 17:48:22 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:48:22 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:48:22 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:48:25 INFO  WaitHelper:32 - 20
+2018-02-15 17:48:25 INFO  WaitHelper:37 - 240
+2018-02-15 17:48:25 INFO  Registration:23 - Registration.Registration started
+2018-02-15 17:48:32 INFO  WaitHelper:61 - element found...Sign in
+2018-02-15 17:48:32 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-15 17:48:34 INFO  LoginPage:78 - entering registration email..1518697114919@gmail.com
+2018-02-15 17:48:36 INFO  WaitHelper:61 - element found...
+2018-02-15 17:48:36 INFO  WaitHelper:61 - element found...
+2018-02-15 17:48:36 INFO  RegistrationPage:100 - selecting mr checkbox..
+2018-02-15 17:48:36 INFO  RegistrationPage:110 - entering firstName..firstName
+2018-02-15 17:48:37 INFO  RegistrationPage:115 - entering lastname..lastname
+2018-02-15 17:48:37 INFO  RegistrationPage:125 - entering password..password
+2018-02-15 17:48:37 INFO  RegistrationPage:188 - entering address..address
+2018-02-15 17:48:38 INFO  RegistrationPage:173 - entering yourAddressFirstName..yourAddressFirstName
+2018-02-15 17:48:38 INFO  RegistrationPage:178 - entering yourAddressLastName..yourAddressLastName
+2018-02-15 17:48:38 INFO  RegistrationPage:183 - entering yourAddressCompany..yourAddressCompany
+2018-02-15 17:48:38 INFO  RegistrationPage:198 - entering yourAddressCity..yourAddressCity
+2018-02-15 17:48:38 INFO  RegistrationPage:203 - entering yourAddressState..Alaska
+2018-02-15 17:48:38 INFO  RegistrationPage:208 - entering yourAddressPostCode..99501
+2018-02-15 17:48:39 INFO  RegistrationPage:223 - entering mobilePhone..9999999999
+2018-02-15 17:48:39 INFO  RegistrationPage:228 - entering addressAlias..addressAlias
+2018-02-15 17:48:39 INFO  RegistrationPage:233 - clicked on registration..[[ChromeDriver: chrome on XP (1a56a4043aa797ce62d7bbf40752db80)] -> xpath: //*[@id='submitAccount']]
+2018-02-15 17:48:41 INFO  WaitHelper:61 - element found...ORDER HISTORY AND DETAILS
+2018-02-15 17:48:41 INFO  VerificationHelper:20 - Welcome to your account. Here you can manage all of your personal information and orders. is dispalyed
+2018-02-15 17:48:41 INFO  Registration:57 - Registration is sucessful
+2018-02-15 17:48:42 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:48:42 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:48:42 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:48:44 INFO  WaitHelper:32 - 20
+2018-02-15 17:48:44 INFO  WaitHelper:37 - 240
+2018-02-15 17:48:44 INFO  VerifyProductCounts:21 - ProductDetails.VerifyProductCounts started
+2018-02-15 17:48:52 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-15 17:48:52 INFO  HomePage:58 - clickin on : WOMEN
+2018-02-15 17:48:54 INFO  WaitHelper:61 - element found...CATALOG
+2018-02-15 17:48:54 INFO  JavaScriptHelper:32 - arguments[0].scrollIntoView()
+2018-02-15 17:48:54 INFO  JavaScriptHelper:49 - [[ChromeDriver: chrome on XP (df3f2b98dd295f75b2e33e90555e4568)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-02-15 17:48:55 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:48:55 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:48:55 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:48:57 INFO  WaitHelper:32 - 20
+2018-02-15 17:48:57 INFO  WaitHelper:37 - 240
+2018-02-15 17:48:57 INFO  LoginTest:19 - loginPage.LoginTest has started
+2018-02-15 17:49:05 INFO  WaitHelper:61 - element found...Sign in
+2018-02-15 17:49:05 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-15 17:49:07 INFO  LoginPage:56 - entering email address....trtr@mailnesia.com
+2018-02-15 17:49:07 INFO  LoginPage:61 - entering password....1234qwer
+2018-02-15 17:49:07 INFO  LoginPage:66 - clicking on submit button...
+2018-02-15 17:49:07 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-15 17:49:09 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-15 17:49:09 INFO  GenericHelper:56 - element is displayed..[[ChromeDriver: chrome on XP (1715de63275a85e9c04398db1c2ae996)] -> xpath: //*[@id='center_column']/p]
+2018-02-15 17:49:09 INFO  LoginTest:28 - Login into application successfully!!
+2018-02-15 17:49:10 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:49:10 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:49:10 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:49:12 INFO  WaitHelper:32 - 20
+2018-02-15 17:49:12 INFO  WaitHelper:37 - 240
+2018-02-15 17:49:12 INFO  VerifyLowestFirstPriceFilter:24 - ProductDetails.VerifyLowestFirstPriceFilter started
+2018-02-15 17:49:20 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-15 17:49:20 INFO  HomePage:58 - clickin on : WOMEN
+2018-02-15 17:49:23 INFO  WaitHelper:61 - element found...CATALOG
+2018-02-15 17:49:23 INFO  DropDownHelper:48 - Locator : [[ChromeDriver: chrome on XP (82fb258cef6117d60a46723a0e6b3e3e)] -> xpath: //*[@id='selectProductSort']] Value : Price: Lowest first
+2018-02-15 17:51:33 INFO  baseTestClass:134 - Loading config.properties
+2018-02-15 17:51:33 INFO  baseTestClass:140 - Loading or.properties
+2018-02-15 17:51:33 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-15 17:51:36 INFO  WaitHelper:32 - 20
+2018-02-15 17:51:36 INFO  WaitHelper:37 - 240
+2018-02-15 17:51:36 INFO  VerifyProductCounts:21 - ProductDetails.VerifyProductCounts started
+2018-02-15 17:51:44 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-15 17:51:44 INFO  HomePage:58 - clickin on : WOMEN
+2018-02-15 17:51:46 INFO  WaitHelper:61 - element found...CATALOG
+2018-02-15 17:51:46 INFO  JavaScriptHelper:32 - arguments[0].scrollIntoView()
+2018-02-15 17:51:46 INFO  JavaScriptHelper:49 - [[ChromeDriver: chrome on XP (edac3300f2967230b5ebdc21096c9e6f)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-02-15 17:51:54 INFO  VerifyProductCounts:32 - product count is matching
+2018-02-19 15:26:18 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:26:18 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:26:18 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:26:21 INFO  WaitHelper:32 - 20
+2018-02-19 15:26:21 INFO  WaitHelper:37 - 240
+2018-02-19 15:26:21 INFO  Registration:23 - Registration.Registration started
+2018-02-19 15:26:28 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:26:28 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:26:31 INFO  LoginPage:78 - entering registration email..1519034191097@gmail.com
+2018-02-19 15:26:32 INFO  WaitHelper:61 - element found...
+2018-02-19 15:26:32 INFO  WaitHelper:61 - element found...
+2018-02-19 15:26:32 INFO  RegistrationPage:100 - selecting mr checkbox..
+2018-02-19 15:26:32 INFO  RegistrationPage:110 - entering firstName..firstName
+2018-02-19 15:26:33 INFO  RegistrationPage:115 - entering lastname..lastname
+2018-02-19 15:26:33 INFO  RegistrationPage:125 - entering password..password
+2018-02-19 15:26:33 INFO  RegistrationPage:188 - entering address..address
+2018-02-19 15:26:34 INFO  RegistrationPage:173 - entering yourAddressFirstName..yourAddressFirstName
+2018-02-19 15:26:34 INFO  RegistrationPage:178 - entering yourAddressLastName..yourAddressLastName
+2018-02-19 15:26:34 INFO  RegistrationPage:183 - entering yourAddressCompany..yourAddressCompany
+2018-02-19 15:26:34 INFO  RegistrationPage:198 - entering yourAddressCity..yourAddressCity
+2018-02-19 15:26:34 INFO  RegistrationPage:203 - entering yourAddressState..Alaska
+2018-02-19 15:26:34 INFO  RegistrationPage:208 - entering yourAddressPostCode..99501
+2018-02-19 15:26:34 INFO  RegistrationPage:223 - entering mobilePhone..9999999999
+2018-02-19 15:26:35 INFO  RegistrationPage:228 - entering addressAlias..addressAlias
+2018-02-19 15:26:35 INFO  RegistrationPage:233 - clicked on registration..[[ChromeDriver: chrome on XP (1297b5d6eed59943ce88cb4496b4708e)] -> xpath: //*[@id='submitAccount']]
+2018-02-19 15:26:37 INFO  WaitHelper:61 - element found...ORDER HISTORY AND DETAILS
+2018-02-19 15:26:37 INFO  VerificationHelper:20 - Welcome to your account. Here you can manage all of your personal information and orders. is dispalyed
+2018-02-19 15:26:37 INFO  Registration:57 - Registration is sucessful
+2018-02-19 15:26:39 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:26:39 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:26:39 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:26:40 INFO  WaitHelper:32 - 20
+2018-02-19 15:26:40 INFO  WaitHelper:37 - 240
+2018-02-19 15:26:41 INFO  VerifyProductCounts:21 - ProductDetails.VerifyProductCounts started
+2018-02-19 15:26:48 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:26:48 INFO  HomePage:58 - clickin on : WOMEN
+2018-02-19 15:26:50 INFO  WaitHelper:61 - element found...CATALOG
+2018-02-19 15:26:50 INFO  JavaScriptHelper:32 - arguments[0].scrollIntoView()
+2018-02-19 15:26:50 INFO  JavaScriptHelper:49 - [[ChromeDriver: chrome on XP (447211495fe33f22003cca8d71667e42)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-02-19 15:26:57 INFO  VerifyProductCounts:32 - product count is matching
+2018-02-19 15:26:58 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:26:58 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:26:58 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:27:00 INFO  WaitHelper:32 - 20
+2018-02-19 15:27:00 INFO  WaitHelper:37 - 240
+2018-02-19 15:27:00 INFO  VerifyLowestFirstPriceFilter:24 - ProductDetails.VerifyLowestFirstPriceFilter started
+2018-02-19 15:27:08 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:27:08 INFO  HomePage:58 - clickin on : WOMEN
+2018-02-19 15:27:10 INFO  WaitHelper:61 - element found...CATALOG
+2018-02-19 15:27:11 INFO  DropDownHelper:48 - Locator : [[ChromeDriver: chrome on XP (e0a6238446860a4c16c4648d6093f7af)] -> xpath: //*[@id='selectProductSort']] Value : Price: Lowest first
+2018-02-19 15:27:20 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:27:20 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:27:20 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:27:22 INFO  WaitHelper:32 - 20
+2018-02-19 15:27:22 INFO  WaitHelper:37 - 240
+2018-02-19 15:27:22 INFO  LoginTest:21 - loginPage.LoginTest has started
+2018-02-19 15:27:29 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:27:29 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:27:31 INFO  LoginPage:56 - entering email address....trtr@mailnesia.com
+2018-02-19 15:27:31 INFO  LoginPage:61 - entering password....1234qwer
+2018-02-19 15:27:31 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:27:31 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:27:33 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:27:33 INFO  GenericHelper:56 - element is displayed..[[ChromeDriver: chrome on XP (da6dcd8b8a4886a3e3d9ea4aca039071)] -> xpath: //*[@id='center_column']/p]
+2018-02-19 15:27:33 INFO  LoginTest:31 - Login into application successfully!!
+2018-02-19 15:27:34 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:27:34 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:27:34 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:27:36 INFO  WaitHelper:32 - 20
+2018-02-19 15:27:36 INFO  WaitHelper:37 - 240
+2018-02-19 15:27:36 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-19 15:38:25 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:38:25 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:38:25 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:38:27 INFO  WaitHelper:32 - 20
+2018-02-19 15:38:27 INFO  WaitHelper:37 - 240
+2018-02-19 15:38:27 INFO  LoginTest:24 - loginPage.LoginTest has started
+2018-02-19 15:38:35 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:38:35 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:38:38 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:38:38 INFO  LoginPage:61 - entering password....
+2018-02-19 15:38:38 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:38:38 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:38:39 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:39:10 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:39:10 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:39:10 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:39:13 INFO  WaitHelper:32 - 20
+2018-02-19 15:39:13 INFO  WaitHelper:37 - 240
+2018-02-19 15:39:13 INFO  LoginTest:24 - loginPage.LoginTest has started
+2018-02-19 15:39:22 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:39:22 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:39:25 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:39:25 INFO  LoginPage:61 - entering password....
+2018-02-19 15:39:25 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:39:25 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:39:26 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:39:30 INFO  GenericHelper:59 - java.lang.NullPointerException
+2018-02-19 15:47:33 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:47:33 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:47:33 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:47:36 INFO  WaitHelper:32 - 20
+2018-02-19 15:47:36 INFO  WaitHelper:37 - 240
+2018-02-19 15:47:36 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 15:47:44 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:48:05 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir6732_24372}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 0825fa885bb74bb4987955f9641eb483
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 15:48:28 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:48:28 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:48:28 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:48:31 INFO  WaitHelper:32 - 20
+2018-02-19 15:48:31 INFO  WaitHelper:37 - 240
+2018-02-19 15:48:31 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 15:48:40 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:50:49 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:50:49 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:50:49 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:50:52 INFO  WaitHelper:32 - 20
+2018-02-19 15:50:52 INFO  WaitHelper:37 - 240
+2018-02-19 15:50:52 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 15:51:00 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:51:21 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir3112_12029}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 57bce1b88fe8dd07bcea1c51f9532a2e
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 15:52:34 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:52:34 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:52:34 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:52:37 INFO  WaitHelper:32 - 20
+2018-02-19 15:52:37 INFO  WaitHelper:37 - 240
+2018-02-19 15:52:37 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 15:52:59 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:54:11 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:54:11 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:54:11 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:54:14 INFO  WaitHelper:32 - 20
+2018-02-19 15:54:14 INFO  WaitHelper:37 - 240
+2018-02-19 15:54:14 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 15:54:23 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:54:44 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir6200_11782}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 47f068f211a4e450c3cdb0d9a4871efc
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 15:56:33 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:56:33 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:56:33 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:56:36 INFO  WaitHelper:32 - 20
+2018-02-19 15:56:36 INFO  WaitHelper:37 - 240
+2018-02-19 15:56:36 INFO  LoginTest:26 - loginPage.LoginTest has started
+2018-02-19 15:56:45 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:56:46 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:56:48 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:56:48 INFO  LoginPage:61 - entering password....
+2018-02-19 15:56:48 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:56:48 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:56:49 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:56:49 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:56:51 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:56:51 INFO  LoginPage:61 - entering password....
+2018-02-19 15:56:51 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:56:51 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:56:52 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:56:52 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:56:55 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:56:55 INFO  LoginPage:61 - entering password....
+2018-02-19 15:56:55 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:56:55 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:56:56 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:56:56 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:56:58 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:56:58 INFO  LoginPage:61 - entering password....
+2018-02-19 15:56:58 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:56:58 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:56:59 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:56:59 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:57:01 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:57:01 INFO  LoginPage:61 - entering password....
+2018-02-19 15:57:01 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:57:01 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 15:57:03 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 15:57:03 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:57:03 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:57:39 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 15:57:39 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 15:57:39 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 15:57:41 INFO  WaitHelper:32 - 20
+2018-02-19 15:57:41 INFO  WaitHelper:37 - 240
+2018-02-19 15:57:41 INFO  LoginTest:26 - loginPage.LoginTest has started
+2018-02-19 15:57:50 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 15:57:50 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 15:57:52 INFO  LoginPage:56 - entering email address....
+2018-02-19 15:57:53 INFO  LoginPage:61 - entering password....
+2018-02-19 15:57:53 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 15:57:53 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:00:34 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:00:34 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:00:34 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:00:37 INFO  WaitHelper:32 - 20
+2018-02-19 16:00:37 INFO  WaitHelper:37 - 240
+2018-02-19 16:00:37 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:00:46 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:00:47 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:00:50 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:00:50 INFO  LoginPage:61 - entering password....
+2018-02-19 16:00:50 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:00:50 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:00:51 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:00:51 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:00:53 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:00:53 INFO  LoginPage:61 - entering password....
+2018-02-19 16:00:53 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:00:53 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:00:54 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:00:54 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:00:56 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:00:56 INFO  LoginPage:61 - entering password....
+2018-02-19 16:00:56 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:00:56 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:00:57 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:00:57 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:00:58 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:01:27 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:01:27 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:01:27 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:01:30 INFO  WaitHelper:32 - 20
+2018-02-19 16:01:30 INFO  WaitHelper:37 - 240
+2018-02-19 16:01:30 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:01:40 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:01:40 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:01:43 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:01:43 INFO  LoginPage:61 - entering password....
+2018-02-19 16:01:44 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:01:44 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:01:45 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:01:45 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:01:47 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:01:47 INFO  LoginPage:61 - entering password....
+2018-02-19 16:01:47 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:01:47 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:01:48 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:01:48 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:01:50 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:01:50 INFO  LoginPage:61 - entering password....
+2018-02-19 16:01:50 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:01:50 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:01:52 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:01:52 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:01:53 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:03:03 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:03:03 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:03:03 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:03:06 INFO  WaitHelper:32 - 20
+2018-02-19 16:03:06 INFO  WaitHelper:37 - 240
+2018-02-19 16:03:06 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:03:24 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:05:24 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:06:05 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:06:40 INFO  LoginPage:61 - entering password....
+2018-02-19 16:06:41 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:06:41 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:06:48 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:08:23 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:08:23 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:08:23 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:08:26 INFO  WaitHelper:32 - 20
+2018-02-19 16:08:26 INFO  WaitHelper:37 - 240
+2018-02-19 16:08:26 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:08:34 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:08:35 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:08:37 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:08:37 INFO  LoginPage:61 - entering password....
+2018-02-19 16:08:37 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:08:37 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:08:39 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:08:39 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:08:40 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:08:40 INFO  LoginPage:61 - entering password....
+2018-02-19 16:08:40 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:08:40 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:08:42 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:08:42 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:08:43 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:08:43 INFO  LoginPage:61 - entering password....
+2018-02-19 16:08:43 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:08:43 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:08:44 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:08:44 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:08:46 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:08:46 INFO  LoginPage:61 - entering password....
+2018-02-19 16:08:46 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:08:46 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:08:47 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:08:47 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:09:34 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:09:34 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:09:34 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:09:37 INFO  WaitHelper:32 - 20
+2018-02-19 16:09:37 INFO  WaitHelper:37 - 240
+2018-02-19 16:09:37 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:09:44 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:09:44 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:09:46 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:09:46 INFO  LoginPage:61 - entering password....
+2018-02-19 16:09:46 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:09:46 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:09:47 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:09:47 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:09:49 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:09:49 INFO  LoginPage:61 - entering password....
+2018-02-19 16:09:49 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:09:49 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:09:50 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:09:50 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:09:52 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:09:52 INFO  LoginPage:61 - entering password....
+2018-02-19 16:09:52 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:09:52 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:09:53 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:09:53 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:09:55 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:09:55 INFO  LoginPage:61 - entering password....
+2018-02-19 16:09:55 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:09:55 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:10:52 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:10:52 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:10:52 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:10:55 INFO  WaitHelper:32 - 20
+2018-02-19 16:10:55 INFO  WaitHelper:37 - 240
+2018-02-19 16:10:55 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:11:04 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:11:04 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:11:06 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:11:07 INFO  LoginPage:61 - entering password....
+2018-02-19 16:11:07 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:11:07 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:11:08 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:11:08 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:11:09 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:11:09 INFO  LoginPage:61 - entering password....
+2018-02-19 16:11:10 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:11:10 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:11:11 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:11:11 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:11:12 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:11:12 INFO  LoginPage:61 - entering password....
+2018-02-19 16:11:12 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:11:12 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:13:49 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:13:49 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:13:49 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:13:52 INFO  WaitHelper:32 - 20
+2018-02-19 16:13:52 INFO  WaitHelper:37 - 240
+2018-02-19 16:13:52 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:14:01 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:14:02 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:04 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:04 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:04 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:04 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:05 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:05 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:07 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:07 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:07 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:07 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:08 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:08 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:10 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:10 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:10 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:10 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:12 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:12 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:13 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:13 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:13 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:13 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:15 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:15 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:16 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:16 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:16 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:16 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:17 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:17 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:14:19 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:14:19 INFO  LoginPage:61 - entering password....
+2018-02-19 16:14:19 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:14:19 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:14:21 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:14:37 INFO  GenericHelper:59 - java.lang.NullPointerException
+2018-02-19 16:15:21 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:15:21 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:15:21 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:15:24 INFO  WaitHelper:32 - 20
+2018-02-19 16:15:24 INFO  WaitHelper:37 - 240
+2018-02-19 16:15:24 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:15:38 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:17:38 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:17:38 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:17:38 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:17:41 INFO  WaitHelper:32 - 20
+2018-02-19 16:17:41 INFO  WaitHelper:37 - 240
+2018-02-19 16:17:41 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-19 16:19:32 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:19:32 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:19:32 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:19:36 INFO  WaitHelper:32 - 20
+2018-02-19 16:19:36 INFO  WaitHelper:37 - 240
+2018-02-19 16:19:36 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-19 16:20:45 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:20:45 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:20:45 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:20:48 INFO  WaitHelper:32 - 20
+2018-02-19 16:20:48 INFO  WaitHelper:37 - 240
+2018-02-19 16:20:48 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-19 16:21:34 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:21:34 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:21:34 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:21:36 INFO  WaitHelper:32 - 20
+2018-02-19 16:21:36 INFO  WaitHelper:37 - 240
+2018-02-19 16:21:37 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/TestData.xlsx
+2018-02-19 16:32:12 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:32:12 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:32:12 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:32:15 INFO  WaitHelper:32 - 20
+2018-02-19 16:32:15 INFO  WaitHelper:37 - 240
+2018-02-19 16:32:15 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/NewData.xlsx
+2018-02-19 16:34:46 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:34:46 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:34:46 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:34:49 INFO  WaitHelper:32 - 20
+2018-02-19 16:34:49 INFO  WaitHelper:37 - 240
+2018-02-19 16:34:49 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/NewData.xlsx
+2018-02-19 16:35:52 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:35:52 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:35:52 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:35:54 INFO  WaitHelper:32 - 20
+2018-02-19 16:35:54 INFO  WaitHelper:37 - 240
+2018-02-19 16:35:54 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:36:02 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:36:18 INFO  GenericHelper:59 - java.lang.NullPointerException
+2018-02-19 16:36:53 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:36:53 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:36:53 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:36:56 INFO  WaitHelper:32 - 20
+2018-02-19 16:36:56 INFO  WaitHelper:37 - 240
+2018-02-19 16:36:56 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:37:03 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:37:24 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir5708_566}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d875dc49047ba2d9b27bd77ccb22e384
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 16:37:40 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:37:40 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:37:40 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:37:43 INFO  WaitHelper:32 - 20
+2018-02-19 16:37:43 INFO  WaitHelper:37 - 240
+2018-02-19 16:37:43 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:37:56 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:38:53 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:38:53 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:38:53 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:38:56 INFO  WaitHelper:32 - 20
+2018-02-19 16:38:56 INFO  WaitHelper:37 - 240
+2018-02-19 16:38:56 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:39:05 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:39:05 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:39:07 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:39:07 INFO  LoginPage:61 - entering password....
+2018-02-19 16:39:07 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:39:07 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:39:08 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:39:29 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir6620_23671}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: d64e59ab134ab614e5cf6fe22e902e58
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 16:39:40 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:39:40 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:39:40 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:39:43 INFO  WaitHelper:32 - 20
+2018-02-19 16:39:43 INFO  WaitHelper:37 - 240
+2018-02-19 16:39:43 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:39:53 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:41:26 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:41:26 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:41:26 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:41:28 INFO  WaitHelper:32 - 20
+2018-02-19 16:41:28 INFO  WaitHelper:37 - 240
+2018-02-19 16:41:28 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:41:37 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:41:37 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:41:40 INFO  LoginPage:56 - entering email address....UserName
+2018-02-19 16:41:40 INFO  LoginPage:61 - entering password....Password
+2018-02-19 16:41:40 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:41:40 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:41:41 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:41:55 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:41:55 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:41:55 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:41:58 INFO  WaitHelper:32 - 20
+2018-02-19 16:41:58 INFO  WaitHelper:37 - 240
+2018-02-19 16:41:58 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:42:13 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:45:31 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:45:59 INFO  LoginPage:56 - entering email address....UserName
+2018-02-19 16:58:15 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 16:58:15 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 16:58:15 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 16:58:18 INFO  WaitHelper:32 - 20
+2018-02-19 16:58:18 INFO  WaitHelper:37 - 240
+2018-02-19 16:58:18 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 16:58:26 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 16:58:26 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:58:29 INFO  LoginPage:56 - entering email address....
+2018-02-19 16:58:29 INFO  LoginPage:61 - entering password....
+2018-02-19 16:58:29 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:58:29 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:58:30 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:58:30 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 16:58:31 INFO  LoginPage:56 - entering email address....UserName
+2018-02-19 16:58:32 INFO  LoginPage:61 - entering password....Password
+2018-02-19 16:58:32 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 16:58:32 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 16:58:33 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 16:58:53 INFO  GenericHelper:59 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='center_column']/p"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'BSNO4_D00827', ip: '10.193.146.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\TRAINI~1\AppData\Local\Temp\scoped_dir7928_26036}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1592036ee3629d422560f5ed209f0fb5
+*** Element info: {Using=xpath, value=//*[@id='center_column']/p}
+2018-02-19 17:00:32 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 17:00:32 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 17:00:32 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 17:00:34 INFO  WaitHelper:32 - 20
+2018-02-19 17:00:34 INFO  WaitHelper:37 - 240
+2018-02-19 17:00:34 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 17:00:53 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 17:01:32 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 17:02:21 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 17:02:21 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 17:02:21 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 17:02:23 INFO  WaitHelper:32 - 20
+2018-02-19 17:02:23 INFO  WaitHelper:37 - 240
+2018-02-19 17:02:23 INFO  LoginTest:25 - loginPage.LoginTest has started
+2018-02-19 17:02:31 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 17:02:32 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 17:02:34 INFO  LoginPage:56 - entering email address....trtr@mailnesia.com
+2018-02-19 17:02:34 INFO  LoginPage:61 - entering password....1234qwer
+2018-02-19 17:02:34 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 17:02:34 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 17:02:36 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 17:02:36 INFO  GenericHelper:56 - element is displayed..[[ChromeDriver: chrome on XP (579bd8e1a5bb7d35e77ed1e6db7a88ae)] -> xpath: //*[@id='center_column']/p]
+2018-02-19 17:02:36 INFO  LoginTest:45 - Login into application successfully!!
+2018-02-19 17:08:00 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 17:08:00 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 17:08:00 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 17:08:03 INFO  WaitHelper:32 - 20
+2018-02-19 17:08:03 INFO  WaitHelper:37 - 240
+2018-02-19 17:08:03 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/NewData.xlsx
+2018-02-19 17:12:56 INFO  baseTestClass:134 - Loading config.properties
+2018-02-19 17:12:56 INFO  baseTestClass:140 - Loading or.properties
+2018-02-19 17:12:56 INFO  baseTestClass:145 - Loading homePage.properties
+2018-02-19 17:12:58 INFO  WaitHelper:32 - 20
+2018-02-19 17:12:58 INFO  WaitHelper:37 - 240
+2018-02-19 17:12:58 INFO  excel_Reader:19 - Creating excel object:-C:\Users\training63\git\Today\today/Data/NewData.xlsx
+2018-02-19 17:12:59 INFO  LoginTest:31 - loginPage.LoginTest has started
+2018-02-19 17:13:06 INFO  WaitHelper:61 - element found...Sign in
+2018-02-19 17:13:06 INFO  LoginPage:51 - clicked on sign in link...
+2018-02-19 17:13:08 INFO  LoginPage:56 - entering email address....trtr@mailnesia.com
+2018-02-19 17:13:08 INFO  LoginPage:61 - entering password....1234qwer
+2018-02-19 17:13:08 INFO  LoginPage:66 - clicking on submit button...
+2018-02-19 17:13:08 INFO  JavaScriptHelper:26 - window.scrollTo(0, document.body.scrollHeight)
+2018-02-19 17:13:09 INFO  WaitHelper:61 - element found...WOMEN
+2018-02-19 17:13:09 INFO  GenericHelper:56 - element is displayed..[[ChromeDriver: chrome on XP (f80356a63d8246b58d31dbe0a9306321)] -> xpath: //*[@id='center_column']/p]
+2018-02-19 17:13:09 INFO  LoginTest:72 - Login into application successfully!!

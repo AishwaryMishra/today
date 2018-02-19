@@ -87,6 +87,7 @@ public class ProductCategoryPage {
 	public void selectColor(String data){
 		new JavaScriptHelper(driver).scrollIntoView(driver.findElement(By.xpath("//a[contains(text(),'"+data+"')]/parent::*/preceding-sibling::input[1]")));
 		driver.findElement(By.xpath("//a[contains(text(),'"+data+"')]/parent::*/preceding-sibling::input[1]")).click();
+		//driver.findElement(By.xpath("//[contains(text(),'"+data+"')]/parent::*/preceding-sibling::input[1]")).click();
 		try {
 			Thread.sleep(7000);
 		} catch (InterruptedException e) {

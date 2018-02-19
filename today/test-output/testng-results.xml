@@ -1,466 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="89198" started-at="2018-02-12T10:43:28Z" finished-at="2018-02-12T10:44:57Z">
+  <suite name="Default suite" duration-ms="15050" started-at="2018-02-19T11:42:56Z" finished-at="2018-02-19T11:43:11Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="89198" started-at="2018-02-12T10:43:28Z" finished-at="2018-02-12T10:44:57Z">
-      <class name="ProductDetails.VerifyProductCounts">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93]" name="launchBrowser" is-config="true" duration-ms="2580" started-at="2018-02-12T16:13:50Z" finished-at="2018-02-12T16:13:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-02-12T16:13:52Z" finished-at="2018-02-12T16:13:52Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void ProductDetails.VerifyProductCounts.testVerifyProductCounts()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testVerifyProductCounts()[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93]" name="testVerifyProductCounts" duration-ms="19080" started-at="2018-02-12T16:13:52Z" finished-at="2018-02-12T16:14:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testVerifyProductCounts -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-12T16:14:11Z" finished-at="2018-02-12T16:14:11Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testVerifyProductCounts status=SUCCESS method=VerifyProductCounts.testVerifyProductCounts()[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:ProductDetails.VerifyProductCounts@2aa3cd93]" name="endTest" is-config="true" duration-ms="971" started-at="2018-02-12T16:14:11Z" finished-at="2018-02-12T16:14:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- ProductDetails.VerifyProductCounts -->
-      <class name="Registration.Registration">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Registration.Registration@add0edd]" name="launchBrowser" is-config="true" duration-ms="3217" started-at="2018-02-12T16:13:28Z" finished-at="2018-02-12T16:13:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Registration.Registration@add0edd]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2018-02-12T16:13:31Z" finished-at="2018-02-12T16:13:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void Registration.Registration.testLoginToApplication()]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:Registration.Registration@add0edd]" name="testLoginToApplication" duration-ms="17176" started-at="2018-02-12T16:13:31Z" finished-at="2018-02-12T16:13:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLoginToApplication -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Registration.Registration@add0edd]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-12T16:13:48Z" finished-at="2018-02-12T16:13:48Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=Registration.testLoginToApplication()[pri:0, instance:Registration.Registration@add0edd] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:Registration.Registration@add0edd]" name="endTest" is-config="true" duration-ms="1342" started-at="2018-02-12T16:13:48Z" finished-at="2018-02-12T16:13:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- Registration.Registration -->
-      <class name="ProductDetails.VerifyLowestFirstPriceFilter">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d]" name="launchBrowser" is-config="true" duration-ms="2594" started-at="2018-02-12T16:14:12Z" finished-at="2018-02-12T16:14:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-02-12T16:14:15Z" finished-at="2018-02-12T16:14:15Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void ProductDetails.VerifyLowestFirstPriceFilter.verifyLowestFirstPriceListInProduct_deatilsPage() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyLowestFirstPriceListInProduct_deatilsPage()[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d]" name="verifyLowestFirstPriceListInProduct_deatilsPage" duration-ms="20678" started-at="2018-02-12T16:14:15Z" finished-at="2018-02-12T16:14:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLowestFirstPriceListInProduct_deatilsPage -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:36Z" finished-at="2018-02-12T16:14:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=verifyLowestFirstPriceListInProduct_deatilsPage status=SUCCESS method=VerifyLowestFirstPriceFilter.verifyLowestFirstPriceListInProduct_deatilsPage()[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:ProductDetails.VerifyLowestFirstPriceFilter@290d210d]" name="endTest" is-config="true" duration-ms="962" started-at="2018-02-12T16:14:36Z" finished-at="2018-02-12T16:14:37Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- ProductDetails.VerifyLowestFirstPriceFilter -->
-      <class name="homepage.TestDataDrivenScript">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="launchBrowser" is-config="true" duration-ms="2710" started-at="2018-02-12T16:14:53Z" finished-at="2018-02-12T16:14:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[y]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[y]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[n]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[n]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[n]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[n]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void homepage.TestDataDrivenScript.testLogin(java.lang.String,java.lang.String,java.lang.String)]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="testLogin" duration-ms="0" started-at="2018-02-12T16:14:56Z" data-provider="testData" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[automation@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[password]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[y]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="endTest" is-config="true" duration-ms="917" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:56Z" finished-at="2018-02-12T16:14:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TestDataDrivenScript.testLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:homepage.TestDataDrivenScript@4b44655e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- homepage.TestDataDrivenScript -->
+    <test name="Default test" duration-ms="15050" started-at="2018-02-19T11:42:56Z" finished-at="2018-02-19T11:43:11Z">
       <class name="loginPage.LoginTest">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:loginPage.LoginTest@7ea37dbf]" name="launchBrowser" is-config="true" duration-ms="2859" started-at="2018-02-12T16:14:37Z" finished-at="2018-02-12T16:14:39Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="launchBrowser" is-config="true" duration-ms="2746" started-at="2018-02-19T17:12:56Z" finished-at="2018-02-19T17:12:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:loginPage.LoginTest@7ea37dbf]" name="testLoginToApplication" duration-ms="12479" started-at="2018-02-12T16:14:39Z" finished-at="2018-02-12T16:14:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLoginToApplication -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:loginPage.LoginTest@7ea37dbf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:39Z" finished-at="2018-02-12T16:14:39Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-02-19T17:12:59Z" finished-at="2018-02-19T17:12:59Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void loginPage.LoginTest.testLoginToApplication()]]>
+                <![CDATA[public void loginPage.LoginTest.testLoginToApplication(java.lang.String,java.lang.String,java.lang.String)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:loginPage.LoginTest@7ea37dbf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-12T16:14:52Z" finished-at="2018-02-12T16:14:52Z">
+        <test-method status="PASS" signature="testLoginToApplication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="testLoginToApplication" duration-ms="10448" started-at="2018-02-19T17:12:59Z" data-provider="testData" finished-at="2018-02-19T17:13:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:loginPage.LoginTest@7ea37dbf] output={null}]]]>
+                <![CDATA[trtr@mailnesia.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234qwer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-19T17:13:09Z" finished-at="2018-02-19T17:13:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:loginPage.LoginTest@6e75aa0d] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:loginPage.LoginTest@7ea37dbf]" name="endTest" is-config="true" duration-ms="951" started-at="2018-02-12T16:14:52Z" finished-at="2018-02-12T16:14:53Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="endTest" is-config="true" duration-ms="1232" started-at="2018-02-19T17:13:09Z" finished-at="2018-02-19T17:13:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
       </class> <!-- loginPage.LoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

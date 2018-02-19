@@ -3,6 +3,15 @@
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test name="Test(failed)">
     <classes>
+      <class name="ProductDetails.VerifyLowestFirstPriceFilter">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="verifyLowestFirstPriceListInProduct_deatilsPage"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- ProductDetails.VerifyLowestFirstPriceFilter -->
       <class name="loginPage.LoginTest">
         <methods>
           <include name="afterMethod"/>
@@ -12,6 +21,33 @@
           <include name="launchBrowser"/>
         </methods>
       </class> <!-- loginPage.LoginTest -->
+      <class name="Registration.Registration">
+        <methods>
+          <include name="testLoginToApplication"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Registration.Registration -->
+      <class name="ProductDetails.VerifyProductCounts">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="testVerifyProductCounts"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- ProductDetails.VerifyProductCounts -->
+      <class name="homepage.TestDataDrivenScript">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="testLogin"/>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- homepage.TestDataDrivenScript -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
