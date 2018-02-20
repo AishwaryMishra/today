@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15050" started-at="2018-02-19T11:42:56Z" finished-at="2018-02-19T11:43:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15050" started-at="2018-02-19T11:42:56Z" finished-at="2018-02-19T11:43:11Z">
+      <class name="loginPage.LoginTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="launchBrowser" is-config="true" duration-ms="2746" started-at="2018-02-19T17:12:56Z" finished-at="2018-02-19T17:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-02-19T17:12:59Z" finished-at="2018-02-19T17:12:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void loginPage.LoginTest.testLoginToApplication(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="testLoginToApplication" duration-ms="10448" started-at="2018-02-19T17:12:59Z" data-provider="testData" finished-at="2018-02-19T17:13:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[trtr@mailnesia.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234qwer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-19T17:13:09Z" finished-at="2018-02-19T17:13:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:loginPage.LoginTest@6e75aa0d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:loginPage.LoginTest@6e75aa0d]" name="endTest" is-config="true" duration-ms="1232" started-at="2018-02-19T17:13:09Z" finished-at="2018-02-19T17:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- loginPage.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

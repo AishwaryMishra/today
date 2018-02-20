@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [SanitySuite]">
+  <test name="SanityTest(failed)">
+    <classes>
+      <class name="ProductDetails.VerifyProductCounts">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="endTest"/>
+          <include name="testVerifyProductCounts"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- ProductDetails.VerifyProductCounts -->
+    </classes>
+  </test> <!-- SanityTest(failed) -->
+</suite> <!-- Failed suite [SanitySuite] -->
